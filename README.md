@@ -11,7 +11,7 @@ My main interest lies in computer vision and graphics, including:
 * Style Transfer and Deep Learning
 * Font generation
 
-### Awards
+### Selected Awards
 * 2016 ACM-ICPC Asia Regional Contest Beijing Site - Silver Medal
 * 2016 ACM-ICPC Asia Regional Contest Hong Kong Site - Bronze Medal
 * 2016 ACM-ICPC Asia Regional Contest China Final - Bronze Medal
