@@ -12,6 +12,10 @@ My main interest lies in computer vision and graphics, including:
 * Font generation
 
 ### Awards
-
-### Contant
+* 2016 ACM-ICPC Asia Regional Contest Beijing Site - Silver Medal
+* 2016 ACM-ICPC Asia Regional Contest Hong Kong Site - Bronze Medal
+* 2016 ACM-ICPC Asia Regional Contest China Final - Bronze Medal
+* 2017 ACM-ICPC Asia Regional Contest QingDao Site - Bronze Medal
+* 2017 ACM-ICPC Asia Regional Contest Nanning Site - Silver Medal
+### Contact
 Email: lsflyt@bupt.edu.cn
