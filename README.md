@@ -6,9 +6,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Research
 My main interest lies in computer vision and graphics, including:
-*Style Transfer and Deep Learning
-*Font generation
+
+* Style Transfer and Deep Learning
+* Font generation
 
 ### Awards
 
 ### Contant
+Email: lsflyt@bupt.edu.cn
