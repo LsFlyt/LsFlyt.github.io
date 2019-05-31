@@ -1,10 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LsFlyt/LsFlyt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Yitian Liu, a bachelor student of Beijing University of Posts and Telecommunications[(BUPT)](BUPT) now. And in September I am going to Institute of Computer Science & Technology of Peking University [ICST](http://www.icst.pku.edu.cn) and will be a member of the CSCL(http://59.108.48.27/cscl/) group at the Institute of Computer Science and Technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Experiences
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
