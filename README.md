@@ -1,5 +1,4 @@
-I am Yitian Liu, a bachelor student at Beijing University of Posts and Telecommunications[(BUPT)](https://www.bupt.edu.cn/) now. And in September I am going to Institute of Computer Science & Technology of Peking University [(ICST)](http://www.icst.pku.edu.cn) and will be a member of the [CSCL](https://59.108.48.27/cscl) group at the Institute of Computer Science and Technology.
-
+In Peking University now.
 ### Experiences
 * Bachelor's Degree in Computer Science(09/2015 - 06/2019) <br/>
 Computer Science and Technology,<br/>
@@ -17,6 +16,7 @@ My main interest lies in computer vision and graphics, including:
 * 2016 ACM-ICPC Asia Regional Contest China Final - Bronze Medal
 * 2017 ACM-ICPC Asia Regional Contest Qingdao Site - Bronze Medal
 * 2017 ACM-ICPC Asia Regional Contest Nanning Site - Silver Medal
+* [AAAI 2021] FontRL: Chinese Font Synthesis via Deep Reinforcement Learning
 
 ### Contact
-Email: lsflyt@bupt.edu.cn
+Email: lsflyt@pku.edu.cn
